@@ -1,3 +1,4 @@
+
 <HTML LANG="ES">
 
 <HEAD>
@@ -28,7 +29,7 @@
 
 <BODY>
 
-<H1>Tablas y funciones</H1>
+<H1>Tablas  funciones</H1>
 
 <?PHP
    $dia  = date ("j");
